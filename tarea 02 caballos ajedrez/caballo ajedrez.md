@@ -7,12 +7,6 @@ El **caballo** se mueve en forma de **“L”**, lo que significa:
 - y luego 1 casilla perpendicularmente.
 
 Ejemplo de movimientos válidos desde una posición:
-. . X . .
-. X . X .
-. . ♞ . .
-. X . X .
-. . X . .
-
 ---
 
 ## 🎯 Objetivo del juego
