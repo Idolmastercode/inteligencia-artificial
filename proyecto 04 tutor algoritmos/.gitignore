@@ -1,0 +1,15 @@
+# IA / modelos / checkpoints
+checkpoints/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# caches
+__pycache__/
+unsloth_compiled_cache/
+wandb/
+
+# otros
+*.log
